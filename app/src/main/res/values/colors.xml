@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1032f0</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff00ff00</color>
+    <color name="a">#c9d3be</color>
+    <color name="b">#b7c8b8</color>
+    <color name="c">#9bcbb0</color>
+    <color name="d">#8ac292</color>
+    <color name="e">#51a174</color>
+    <color name="f">#ff0329</color>
+    <color name="g">#990118</color>
+    <color name="h">#ff4e69</color>
+    <color name="i">#33b5e3</color>
+    <color name="j">#870418</color>
+    <color name="k">#b37400</color>
+    <color name="l">#cc8400</color>
+    <color name="m">#e69500</color>
+    <color name="n">#ffae1a</color>
+    <color name="o">#ffa500</color>
+    <color name="p">#ffae19</color>
+    <color name="q">#b27300</color>
+    <color name="r">#cc8400</color>
+    <color name="s">#e59400</color>
+    <color name="u">#ffc04c</color>
+    <color name="v">#ffd27f</color>
+    <color name="w">#ffe4b2</color>
+    <color name="x">#013902</color>
+    <color name="y">#012a01</color>
+    <color name="z">#025403</color>
+    <color name="za">#4d874e</color>
+    <color name="zb">#ccdccc</color>
+    <color name="zc">#e5ede5</color>
+    <color name="zd">#3d0009</color>
+</resources>
